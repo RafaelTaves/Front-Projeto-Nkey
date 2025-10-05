@@ -90,7 +90,7 @@ export default function XlsxCard() {
     }
 
     setStep("uploading");
-    setMessage("Enviando arquivo…");
+    setMessage("Processando...");
     setProgress(15);
 
     try {
